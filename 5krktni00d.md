@@ -1,4 +1,4 @@
-```{
+```{r
 export function transformDomArray(domArray, options={}){
   let mappings = {
     'P': 'DIV',}
